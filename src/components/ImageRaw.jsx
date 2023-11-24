@@ -2,13 +2,13 @@ import React from 'react';
 
 function ImageRaw() {
   const images = [
-    { name: 'JEWELLERY', path: 'src/assets/Dog image.png' },
-    { name: 'TABLE DECOR', path: 'src/assets/Squirell image.png' },
-    { name: 'MADHUBANI', path: 'src/assets/Bee.png' },
-    { name: 'LIPPAN ART', path: 'src/assets/Tiger.png' },
+    { name: 'JEWELLERY', path: 'https://i.ibb.co/SN3sr9L/Dog-image.png' },
+    { name: 'TABLE DECOR', path: 'https://i.ibb.co/HXv5T3s/Squirell-image.png' },
+    { name: 'MADHUBANI', path: 'https://i.ibb.co/0KXGFf4/Bee.png' },
+    { name: 'LIPPAN ART', path: 'https://i.ibb.co/KrmhyKJ/Tiger.png' },
   ];
 
-  const facilities = [{path:'/src/assets/Easy Returnn.png'},{path:'src/assets/Secured .png'},{path:'src/assets/Free shipping.png'}]
+  const facilities = [{path:'https://i.ibb.co/hdT2D06/Easy-Returnn.png'},{path:'https://i.ibb.co/zm3m2sr/Secured.png'},{path:'https://i.ibb.co/wSMNDg9/Free-shipping.png'}]
 
   return (
     <>

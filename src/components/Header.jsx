@@ -36,8 +36,8 @@ const Header = () => {
 
 
         <div className="flex items-center">
-          <img src="src/assets/Wishlist_icon.png" className="h-16" alt="" />
-          <img src="src/assets/Cart_image_icon.png" className="h-16" alt="" />
+          <img src="https://i.ibb.co/0fYdj76/Wishlist-icon.png" className="h-16" alt="" />
+          <img src="https://i.ibb.co/zV46PqL/Cart-image-icon.png" className="h-16" alt="" />
         </div>
       </div>
 
